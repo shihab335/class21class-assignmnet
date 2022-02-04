@@ -8,9 +8,7 @@ ul{
 img{
     max-width: 100%;
 }
-.banner-bottom{
-    border-bottom: 1px solid;
-}
+
 .content{
     background-color: rgba(221, 221, 221, 0.445);
 }
@@ -19,8 +17,6 @@ img{
 }
 .card-pog{
     margin-top: 10px;
-    border-top: 1px solid;
-    border-bottom: 1px solid;
 }
 .card-pad{
     padding: 0 !important;
@@ -34,5 +30,4 @@ img{
 }
 .stratch-sec{
     background-color: rgba(221, 221, 221, 0.445);
-    padding: 70px 0;
 }
